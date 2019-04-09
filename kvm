@@ -1,4 +1,0 @@
-#/bin/bash
-./setleds ^scroll &> /dev/null
-sleep .1
-./setleds ^scroll &> /dev/null

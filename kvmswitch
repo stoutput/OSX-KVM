@@ -1,0 +1,10 @@
+#/bin/bash
+SCRIPTPATH="$( cd "$(dirname "${BASH_SOURCE[0]}")" ; pwd -P )" # Current script dir
+(cd "$SCRIPTPATH"
+./setleds ^scroll &> /dev/null
+sleep .1
+./setleds ^scroll &> /dev/null
+# Run once more, in case the first trigger didn't take
+sleep .1
+./setleds ^scroll &> /dev/null)
+exit 0
