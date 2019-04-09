@@ -18,4 +18,5 @@ Simply download and extract, and run `./kvmswitch` from the terminal in the extr
 *__Note:__ If you would like to change the path of your kvmswitch file to something other than `/Users/<your username>/bin/`, right-click the `Switch KVM.workflowflow` file and click Open With > Automator.app, change ~/bin/kvmswitch to your new path, then click File > Save (⌘S). Proceed from step 2 above as normal.*
 ## How it works:
 Most KVM switches monitor the state of the connected keyboard's scroll lock LED to use as its signal-switching "hotkey" input. Unfortunately, MacOS will often remap the key (F14) on external keyboards to decrease the display brightness, and does not support the necessary scroll lock LED toggle – until now. By employing the functionality of damieng's [setledsmac](https://github.com/damieng/setledsmac), we can quickly toggle the state of this LED in order to emulate the necessary KVM-switching signal.
+
 The `kvmswitch` script spawns a new file, `kvmleds` which it uses to control keyboard LEDs, then toggles the scroll lock key 3 times in rapid succession (2 times to trigger the  switch, then once more in case the first did not register).
