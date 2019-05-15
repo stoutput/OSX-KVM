@@ -7,9 +7,9 @@ Huge shoutout to [damieng](https://github.com/damieng) for his work on [setledsm
 
 Tested and verified working on MacOS Mojave. If you'd like to test on other versions, let me know if it does or doesn't work for you!
 ## Usage:
-Simply download and extract, and run `./kvmswitch` from the terminal in the extracted folder, or setup a [keyboard shortcut](#keyboard-shortcut).
+Download and extract, open terminal, `cd` to the extracted folder, and execute `./kvmswitch`. Set up a [keyboard shortcut](#keyboard-shortcut) for hotkey support.
 ## Keyboard shortcut:
-1. Extract or move the `kvmswitch` file to `/Users/<your username>/bin/`
+1. Move the `kvmswitch` file to `/Users/<your username>/bin/`
 2. Double-click the included `Switch KVM.workflow` file
 3. Click "Install" when prompted by the Quick Action Installer
 4. This should automatically open service shortcuts, but if not, head to System Preferences > Keyboard > Shortcuts, and click "Services" in the left panel
