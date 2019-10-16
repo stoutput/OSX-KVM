@@ -5,7 +5,7 @@ Software-based KVM Switcher for OSX. Simulates the double scroll lock LED toggle
 
 Huge shoutout to [damieng](https://github.com/damieng) for his work on [setledsmac](https://github.com/damieng/setledsmac).
 
-Tested and verified working on MacOS Mojave. If you'd like to test on other versions, let me know if it does or doesn't work for you!
+Tested and verified working through OSX 10.15 Catalina. If you'd like to test on other versions, let me know if it does or doesn't work for you!
 ## Usage:
 Download and extract, open terminal, `cd` to the extracted folder, and execute `./kvmswitch`. Set up a [keyboard shortcut](#keyboard-shortcut) for hotkey support.
 ## Keyboard shortcut:
