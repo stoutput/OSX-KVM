@@ -9,7 +9,7 @@ Tested and verified working through OSX 10.15 Catalina. If you'd like to test on
 ## Usage:
 Download and extract, open terminal, `cd` to the extracted folder, and execute `./kvmswitch`. Set up a [keyboard shortcut](#keyboard-shortcut) for hotkey support.
 ## Keyboard shortcut:
-1. Move the `kvmswitch` file to `/Users/<your username>/bin/`
+1. Move the `kvmswitch` file to `/Users/<your username>/bin/` (create this folder if it doesn't exist)
 2. Double-click the included `Switch KVM.workflow` file
 3. Click "Install" when prompted by the Quick Action Installer
 4. This should automatically open service shortcuts, but if not, head to System Preferences > Keyboard > Shortcuts, and click "Services" in the left panel
