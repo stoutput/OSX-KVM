@@ -7,7 +7,7 @@ Huge shoutout to [damieng](https://github.com/damieng) for his work on [setledsm
 
 Tested and verified working through OSX 10.15 Catalina. If you'd like to test on other versions, let me know if it does or doesn't work for you!
 ## Usage:
-Download and extract, open terminal, `cd` to the extracted folder, and execute `./kvmswitch`. If desired, set up a [keyboard shortcut](#keyboard-shortcut) for hotkey support.
+Download and extract, open terminal, `cd` to the extracted folder, and execute `./kvmswitch`. Or, set up a [keyboard shortcut](#keyboard-shortcut) to trigger via hotkey.
 ## Keyboard shortcut:
 1. Move the `kvmswitch` file to `/Users/<your username>/bin/` (create this folder if it doesn't exist)
 2. Double-click the included `Switch KVM.workflow` file
