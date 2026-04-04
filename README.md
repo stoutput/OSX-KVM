@@ -1,6 +1,8 @@
 # OSX-KVM
 <img src="https://img.shields.io/badge/stability-stable-green.svg?color=%23307ABE&style=flat-square"> <img src="https://img.shields.io/github/languages/code-size/benjaminstout/osx-kvm.svg?color=%23307ABE&style=flat-square"> <img src="https://img.shields.io/github/license/benjaminstout/osx-kvm.svg?color=%23307ABE&style=flat-square"> <img src="https://img.shields.io/github/downloads/benjaminstout/osx-kvm/total.svg?style=flat-square">
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y81X7LER)
+
 Software-based KVM Switcher for OSX. Simulates the double scroll lock LED toggle necessary to switch most KVMs.
 
 Huge shoutout to [damieng](https://github.com/damieng) for his work on [setledsmac](https://github.com/damieng/setledsmac).
