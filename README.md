@@ -1,5 +1,5 @@
 # OSX-KVM
-<img src="https://img.shields.io/badge/stability-stable-green.svg?color=%23307ABE&style=flat-square"> <img src="https://img.shields.io/github/languages/code-size/benjaminstout/osx-kvm.svg?color=%23307ABE&style=flat-square"> <img src="https://img.shields.io/github/license/benjaminstout/osx-kvm.svg?color=%23307ABE&style=flat-square"> <img src="https://img.shields.io/github/downloads/benjaminstout/osx-kvm/total.svg?style=flat-square">
+<img src="https://img.shields.io/badge/stability-stable-green.svg?color=%23307ABE&style=flat-square"> <img src="https://img.shields.io/github/languages/code-size/stoutput/osx-kvm.svg?color=%23307ABE&style=flat-square"> <img src="https://img.shields.io/github/license/stoutput/osx-kvm.svg?color=%23307ABE&style=flat-square"> <img src="https://img.shields.io/github/downloads/stoutput/osx-kvm/total.svg?style=flat-square">
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y81X7LER)
 
